@@ -68,3 +68,158 @@ Armstrong-Lora:
   github: LoraSArmstrong
   expertise: 'Research data management, R &amp; RStudio, version control with Git/Github'
   motivation: 'Enabling researchers to carry out reproducible research, improving data workflows and management during research, promoting open science'
+  
+Branchett-Susan:
+  first-name: Susan
+  last-name: Branchett
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/d/8/csm_4e25t_5a525ee3cc.jpg
+  position: 
+  faculty: 
+  department: 
+  email: s.e.branchett@tudelft.nl
+  website: 
+  orcid: 0000-0002-5972-6813
+  github: sebranchett
+  expertise: Research Data Management, Research Software Engineering, IT
+  motivation: I would like to join forces with like-minded people to have more campus-wide impact. The Data Stewards rock! 
+
+Ebrahimi Fard-Amir:
+  first-name: Amir
+  last-name: Ebrahimi Fard
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/6/6/csm_Amir%20Ebrahimi%20Fard_f31ddf4c64.jpg
+  position: 
+  faculty: 
+  department: 
+  email: a.ebrahimifard@tudelft.nl
+  website: 
+  orcid: 0000-0003-4903-8918
+  github: ebrahimifard
+  expertise: Social network data analysis, Machine learning, Anomaly detection, Natural language processing, Digital data collection, Python
+  motivation: I believe one of the most important yet missing pieces in the current research landscape is data management. It facilitates and accelerates the research cycle by making the research activities findable, accessible, interoperable, and reusable (FAIR). Despite the significance of FAIR research, making a large university (with thousands of scholars and lots of ongoing research projects) fully FAIR at once might seem infeasible. That is why the role of data champion matters. They can smoothly bridge this gap by promoting data management practises among their colleagues. Besides the raising awareness, being a data champion provides the opportunity of learning about other or most recent data management techniques and practices. From a personal point of view, I am also very much interested in circulating data management tips among computational social scientists due to the recent tendency of both social scientists and scholars from hard disciplines to work on multidisciplinary projects.
+
+Cryan-Ashley:
+  first-name: Ashley
+  last-name: Cryan
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/5/9/csm_l2z4a0_c2875aaed0.jpg
+  position: 
+  faculty: 
+  department: 
+  email: a.e.cryan@tudelft.nl
+  website: 
+  orcid: 0000-0002-5410-2163
+  github: 
+  expertise: data management, data documentation, data storage, DMPonline, version control, FAIR principles, data visualization
+  motivation: I am an advocate for Open Science and FAIR data, and want to continue learning about best practices for implementing these ideals in practice.
+I am a Data Manager with the TU Delft Library Research Data Services Team - excited to network with the community and learn more about how I can best serve researchers, staff + students!
+
+Casey-Jack:
+  first-name: Jack
+  last-name: Casey
+  photo: 
+  position: Postdoctoral Researcher
+  faculty: Faculty of Technology, Policy and Management
+  department: VTI
+  email: j.j.casey@tudelft.nl
+  website: 
+  orcid: 0000-0002-9551-9125
+  github: 
+  expertise: Philosophy of Science, Logic, Philosophy of Technology, Ethics, Epistemology
+  motivation: I am a post doc researcher involved in Juan Manuel Duran's project on dark data. The project is aimed at investigating the ethical and epistemological issues dark data presents, with a view to formulating concrete policy proposals in response to issues identified.
+
+Pudāne-Baiba:
+  first-name: Baiba
+  last-name: Pudāne
+  photo: 
+  position: PhD Candidate
+  faculty: Faculty of Technology, Policy and Management
+  department: Transport and Logistics
+  email: b.pudane@tudelft.nl 
+  website: 
+  orcid: 0000-0001-7330-2817
+  github: 
+  expertise: Travel behaviour, time-use modelling, choice behaviour modelling and automated vehicles
+  motivation: I would like to commit myself to publish the data I gather in my work and I expect that the meetings with other data champions will allow me to be more efficient in that. Along the way, I will be happy to share my experience with my colleagues and perhaps inspire them to join the movement.
+
+Huang-Yilin:
+  first-name: Yilin
+  last-name: Huang
+  photo: 
+  position: Assistant Professor
+  faculty: Faculty of Technology, Policy and Management
+  department: Multi-Actor Systems
+  email: y.huang@tudelft.nl
+  website: 
+  orcid: 
+  github: 
+  expertise: Data analysis, modelling, simulation
+  motivation: I hope that myself or someone else can use and reuse my data, and possibly validate the analysis. I’d like to spread the word of the importance of data management and reuse, and where and how to do it. It seems fun to do
+
+Cunningham-Scott:
+  first-name: Scott
+  last-name: Cunningham
+  photo: 
+  position: Associate Professor
+  faculty: Faculty of Technology, Policy and Management
+  department: Multi-Actor Systems
+  email: s.cunningham@tudelft.nl
+  website: 
+  orcid: 0000-0002-4396-1990
+  github: 
+  expertise: Statistics, Bayesian networks, image processing, geographic information systems, open source computing, text mining, consumer and microdata, science and technology information, urban science, municipal policy making
+  motivation: I believe in the importance of empirical research and open and transparent decision-making. I believe I can help increase awareness, and in particular support our students who correctly see data management as a critical job skill. I can incorporate materials in lectures, invite guest lectures, host and support blogging and social media. I can disseminate interesting data sets and recipes for research.
+
+Durán-Juan:
+  first-name: Juan
+  last-name: Durán
+  photo: 
+  position: Lecturer
+  faculty: Faculty of Technology, Policy and Management
+  department: 
+  email: j.m.duran@tudelft.nl 
+  website: 
+  orcid: 0000-0001-6482-0399 
+  github: 
+  expertise: Computer science, Philosophy of science and technology, History of science and technology, Philosophy of AI; Ethics
+  motivation: I have an interest in the challenges that data management and Open Science present to current scientific and engineering research. I am particularly motivated by questions about data storage, curation and maintenance of data, reproducibility and replicability of results, and open distribution of data. 
+
+Zuiderwijk van Eijk-Anneke:
+  first-name: Anneke
+  last-name: Zuiderwijk-van Eijk
+  photo: 
+  position: Assistant Professor
+  faculty: Faculty of Technology, Policy and Management
+  department: Engineering Systems and Services
+  email: A.M.G.Zuiderwijk-vanEijk@tudelft.nl
+  website: 
+  orcid: 
+  github: 
+  expertise: Open data, research data, data infrastructures, design, user service patterns, online education
+  motivation: The opening up of research data can be revolutionary for scientific advancement. The use of open research data in combination with new Information and Communication Technologies now offers tremendous opportunities, for example, by obtaining new insights by analysing and combining huge amounts of open research data. Despite the many potential advantages of open research data, researchers are still reluctant to open up their own data and to use the open research data of others. My research focuses on what drives researchers, governments, companies and other actor types from different disciplines and domains to open up and use data.
+
+Fajardo-Sebastian:
+  first-name: Sebastian
+  last-name: Fajardo
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/6/9/csm_m7a6s9_ec82c57fe1.jpg
+  position: Postdoctoral Researcher
+  faculty: Faculty of Mechanical, Maritime and Material Engineering
+  department: Materials Science
+  email: s.d.fajardobernal@tudelft.nl
+  website: 
+  orcid: 
+  github: 
+  expertise: Social and technological complexity, collective action, community formation, archaeology, anthropology.
+  motivation: I like to build and explore multi-temporal data about long-term human complex systems. These datasets should be managed and stored systematically in order to provide a source of information for long-term decisions of present and future societies. I would like to learn how others use and manage their own data and how they engage with challenges of collecting, storing and sharing data. I would also like to share my insights about how to work with multi-temporal data and human participant information. Finally, I hope to create more links inside and outside of the TU Delft data management network.
+
+Aragón-Alejandro:
+  first-name: Alejandro
+  last-name: Aragón
+  photo: https://d1rkab7tlqy5f1.cloudfront.net/_processed_/3/6/csm_Aragon%20%28Alegandro%29%20600x800_assistant%20prof_ab3879ed85.jpg
+  position: Assistant Professor
+  faculty: Faculty of Mechanical, Maritime and Material Engineering
+  department: Precision and Microsystems Engineering
+  email: a.m.aragon@tudelft.nl
+  website: 
+  orcid: 0000-0003-2275-6207
+  github: 
+  expertise: Computational solid mechanics, modeling, enriched finite element methods, phononic crystals, acoustic metamaterials, topology optimization, contact mechanics, fracture mechanics, massively parallel scientific computing.
+  motivation: I believe the output of research, comprised of articles and the data needed to create them, should not be kept behind paywalls. This is particularly true for research funded by tax payers. There have been remarkable advances towards open science to make available data that has not yet received the spotlight.
